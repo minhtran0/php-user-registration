@@ -1,8 +1,8 @@
 <?php
 
-require_once 'classes/User.class.php';
-require_once 'classes/UserTools.class.php';
-require_once 'classes/DB.class.php';
+require_once 'User.class.php';
+require_once 'UserTools.class.php';
+require_once 'DB.class.php';
  
 //connect to the database
 $db = new DB();
